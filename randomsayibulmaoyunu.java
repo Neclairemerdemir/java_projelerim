@@ -1,7 +1,7 @@
 // random sayi tahmin oyunu 
 import java.util.Random;
 import java.util.Scanner;
-public class kod2 {
+public class randomsayibulmaoyunu {
     public static void main(String[] args) {
         Random rastgele=new Random();
         Scanner girdi= new Scanner(System.in);
@@ -27,3 +27,4 @@ public class kod2 {
 }
     
 }
+
