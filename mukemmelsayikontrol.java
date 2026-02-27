@@ -1,4 +1,4 @@
-// btk mükemmel sayı bulma 
+//mükemmel sayı kontrolü
 import java.util.Scanner;
 
 public class mukemmelsayi {
