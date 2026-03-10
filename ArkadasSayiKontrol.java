@@ -3,7 +3,7 @@
 bölenleri toplamına eşitse bu sayılara arkadaş sayılar denir*/
 import java.util.Scanner;
 
-public class arkadassayi{
+public class ArkadasSayiKontrol{
     public static void main(String[] args) {
         int sayi1,sayi2 ,top1=0,top2=0;
         Scanner girdi = new Scanner(System.in);
