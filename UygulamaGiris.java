@@ -1,7 +1,7 @@
 //uygulama giriş ekranı 
 import java.util.Scanner;
 
-public class uygulamagiris {
+public class UygulamaGiris{
     public static void main(String[] args) {
         Scanner girdi=new Scanner(System.in);
         long sifre ,kayitlisifre=12345678L;
