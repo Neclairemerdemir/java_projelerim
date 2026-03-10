@@ -3,7 +3,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class taskagıtmakasoyunu {
+public class TasKagıtMakasOyunu {
     
     public static void main(String[] args) {
         Random rastgele=new Random();
