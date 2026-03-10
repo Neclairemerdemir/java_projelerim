@@ -1,7 +1,7 @@
 // boy kütle endeksi hesaplayan uygulama 
 import java.util.Scanner;
 
-public class boykutle {
+public class BoyKutleEndeksi {
     public static void main(String[] args) {
         Scanner girdi=new Scanner(System.in);
         System.out.println("Boy-kütle endeksi (VKİ) hesaplama uygulamasina hoşgeldiniz !");
