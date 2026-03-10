@@ -1,7 +1,7 @@
 //mükemmel sayı kontrolü
 import java.util.Scanner;
 
-public class mukemmelsayi {
+public class MukemmelSayiKontrol {
     public static void main(String[] args) {
         int sayi , top=0 ,i;
         Scanner girdi = new Scanner(System.in);
