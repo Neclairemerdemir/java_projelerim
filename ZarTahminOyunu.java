@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class tahminOyunu {
+public class ZarTahminOyunu {
     public static void main(String[] args) {
          Random rnd =new Random();
          Scanner giris =new Scanner(System.in);
